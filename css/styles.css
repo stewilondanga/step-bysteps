@@ -85,13 +85,13 @@ h1 {
   transform: translateX(100%);
 }
 
-/*.signup__field-wrapper {
+.signup__field-wrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 
-.signup__field {
+/*.signup__field {
   margin-bottom: 12px;
 }
 
