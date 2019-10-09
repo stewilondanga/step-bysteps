@@ -18,14 +18,14 @@ var slideIn = function() {
   });
 }
 
-/*var slideOut = function() {
+var slideOut = function() {
   previousButton.addEventListener('click', function(event) {
     stepTwo.classList.remove('slide-in');
     stepTwo.classList.add('slide-out');
   });
 }
 
-if (nextButton && previousButton) {
+/*if (nextButton && previousButton) {
   slideIn();
   slideOut();
 }
