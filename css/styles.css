@@ -120,7 +120,7 @@ h1 {
   width: 100%;
 }
 
-/*.button-outline {
+.button-outline {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -131,7 +131,7 @@ h1 {
   cursor: pointer;
 }
 
-.next__step, .previous__step {
+/*.next__step, .previous__step {
   flex: 1 0 auto;
   display: flex;
   justify-content: flex-end;
