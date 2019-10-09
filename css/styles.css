@@ -53,7 +53,7 @@ h1 {
   padding: 20px;
 }
 
-/*.signup__step-1 {
+.signup__step-1 {
   position: absolute;
   top: 0;
   right: 0;
@@ -64,7 +64,7 @@ h1 {
   flex-direction: column;
 }
 
-.signup__step-2 {
+/*.signup__step-2 {
   position: absolute;
   top: 0;
   right: 0;
