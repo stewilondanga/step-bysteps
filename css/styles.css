@@ -49,11 +49,11 @@ h1 {
   background: #D5D5D5;
 }
 
-/*.signup__step {
+.signup__step {
   padding: 20px;
 }
 
-.signup__step-1 {
+/*.signup__step-1 {
   position: absolute;
   top: 0;
   right: 0;
