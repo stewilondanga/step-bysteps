@@ -39,7 +39,7 @@ h1 {
   padding-bottom: 5px;
 }
 
-/*.signup__header:after {
+.signup__header:after {
   content: '';
   position: absolute;
   bottom: 0;
@@ -49,7 +49,7 @@ h1 {
   background: #D5D5D5;
 }
 
-.signup__step {
+/*.signup__step {
   padding: 20px;
 }
 
