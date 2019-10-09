@@ -1,4 +1,4 @@
-/*var navigate = (function() {
+var navigate = (function() {
   $('.dd').toggle();
   $('.dd_btn').click(function() {
     var dataName = $(this).attr('data-name');
@@ -7,7 +7,7 @@
   });
 })();
 
-var nextButton = document.querySelector('.next__step-button');
+/*var nextButton = document.querySelector('.next__step-button');
 var previousButton = document.querySelector('.previous__step-button');
 var stepTwo = document.querySelector('.signup__step-2');
 
