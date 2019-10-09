@@ -25,7 +25,7 @@ var slideOut = function() {
   });
 }
 
-/*if (nextButton && previousButton) {
+if (nextButton && previousButton) {
   slideIn();
   slideOut();
 }
