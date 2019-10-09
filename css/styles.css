@@ -95,11 +95,12 @@ h1 {
   margin-bottom: 12px;
 }
 
-/*.input-field {
+.input-field {
   margin-top: 2px;
   padding: 5px 10px;
 }
-.input-field:focus {
+
+/*.input-field:focus {
   outline: none;
 }
 
