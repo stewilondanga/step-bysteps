@@ -116,11 +116,11 @@ h1 {
   width: 100%;
 }
 
-/*.email-field .input-field, .password-field .input-field {
+.email-field .input-field, .password-field .input-field {
   width: 100%;
 }
 
-.button-outline {
+/*.button-outline {
   display: flex;
   align-items: center;
   justify-content: center;
