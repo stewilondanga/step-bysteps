@@ -131,14 +131,14 @@ h1 {
   cursor: pointer;
 }
 
-/*.next__step, .previous__step {
+.next__step, .previous__step {
   flex: 1 0 auto;
   display: flex;
   justify-content: flex-end;
   align-items: flex-end;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
