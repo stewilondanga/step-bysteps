@@ -64,7 +64,7 @@ h1 {
   flex-direction: column;
 }
 
-/*.signup__step-2 {
+.signup__step-2 {
   position: absolute;
   top: 0;
   right: 0;
@@ -76,7 +76,8 @@ h1 {
   flex-direction: column;
   transition: all .5s linear;
 }
-.signup__step-2.slide-in {
+
+/*.signup__step-2.slide-in {
   transform: translateX(0%);
 }
 .signup__step-2.slide-out {
