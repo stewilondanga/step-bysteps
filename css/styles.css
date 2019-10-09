@@ -104,10 +104,11 @@ h1 {
   outline: none;
 }
 
-/*.fullname-field {
+.fullname-field {
   width: 49%;
 }
-.fullname-field .input-field {
+
+/*.fullname-field .input-field {
   width: 100%;
 }
 
