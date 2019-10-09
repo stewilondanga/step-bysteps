@@ -108,11 +108,11 @@ h1 {
   width: 49%;
 }
 
-/*.fullname-field .input-field {
+.fullname-field .input-field {
   width: 100%;
 }
 
-.email-field, .password-field {
+/*.email-field, .password-field {
   width: 100%;
 }
 .email-field .input-field, .password-field .input-field {
