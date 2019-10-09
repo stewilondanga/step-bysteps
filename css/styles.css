@@ -91,11 +91,11 @@ h1 {
   justify-content: space-between;
 }
 
-/*.signup__field {
+.signup__field {
   margin-bottom: 12px;
 }
 
-.input-field {
+/*.input-field {
   margin-top: 2px;
   padding: 5px 10px;
 }
