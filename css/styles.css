@@ -81,11 +81,11 @@ h1 {
   transform: translateX(0%);
 }
 
-/*.signup__step-2.slide-out {
+.signup__step-2.slide-out {
   transform: translateX(100%);
 }
 
-.signup__field-wrapper {
+/*.signup__field-wrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
