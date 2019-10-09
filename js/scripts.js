@@ -7,8 +7,8 @@ var navigate = (function() {
   });
 })();
 
-/*var nextButton = document.querySelector('.next__step-button');
-var previousButton = document.querySelector('.previous__step-button');
+var nextButton = document.querySelector('.next__step-button');
+/*var previousButton = document.querySelector('.previous__step-button');
 var stepTwo = document.querySelector('.signup__step-2');
 
 var slideIn = function() {
