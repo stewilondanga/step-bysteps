@@ -100,11 +100,11 @@ h1 {
   padding: 5px 10px;
 }
 
-/*.input-field:focus {
+.input-field:focus {
   outline: none;
 }
 
-.fullname-field {
+/*.fullname-field {
   width: 49%;
 }
 .fullname-field .input-field {
