@@ -112,10 +112,11 @@ h1 {
   width: 100%;
 }
 
-/*.email-field, .password-field {
+.email-field, .password-field {
   width: 100%;
 }
-.email-field .input-field, .password-field .input-field {
+
+/*.email-field .input-field, .password-field .input-field {
   width: 100%;
 }
 
