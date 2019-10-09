@@ -9,9 +9,9 @@ var navigate = (function() {
 
 var nextButton = document.querySelector('.next__step-button');
 var previousButton = document.querySelector('.previous__step-button');
-/*var stepTwo = document.querySelector('.signup__step-2');
+var stepTwo = document.querySelector('.signup__step-2');
 
-var slideIn = function() {
+/*var slideIn = function() {
   nextButton.addEventListener('click', function(event) {
     stepTwo.classList.remove('slide-out');
     stepTwo.classList.add('slide-in');
